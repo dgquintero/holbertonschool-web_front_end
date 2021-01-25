@@ -1,3 +1,4 @@
 *.png
 *.ico
 *.jpg
+.DS_Store
